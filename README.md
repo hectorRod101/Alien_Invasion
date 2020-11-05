@@ -11,6 +11,6 @@ If the player defeats all alien ships in the current screen, the player earns po
 The player continuously must survive with only three lives for the entirety of the game. The only way the player loses a life if the 
 alien ship reaches the bottom of the screen and collides with their ship. Each wave the alien ships get faster which makes it harder to 
 aim at them.
-
+<img src="https://i.imgur.com/fUu0j9w.png" width="700" height="500" />
 <img src="https://i.imgur.com/o34EOJR.png" width="700" height="500" />
 
