@@ -34,7 +34,7 @@ python alien_invasion.py
 ## Controls
 ```bash
 Any Keys: Start Game
-Left/Right: Move
+Left/Right Arrow Keys: Move
 Space Bar: Quit
 Press Key p: Pause
 Mouse: Click
