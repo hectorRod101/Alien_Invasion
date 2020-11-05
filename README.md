@@ -23,8 +23,8 @@ aim at them.
 - If you have the correct version of Python and Pygame installed, you can run the program in the command prompt / terminal.
 
 ```bash
-cd SpaceInvaders
-python spaceinvaders.py
+cd Alien_Invasion
+python alien_invasion.py
 ```
 
 **Note:** If you're using Python 3, replace the command "python" with "python3"
